@@ -10,4 +10,4 @@ Deep Learning framwork TensorFlow is used only to load the MNIST Dataset. The im
 
 Following are the final results obtained:
 
-![](https://github.com/sanghvirajit/Feedforward_Neural_Network/blob/master/Results%20-%20multilayers.png)
+![plots](https://user-images.githubusercontent.com/69073063/125038732-0c3d6b00-e096-11eb-8f12-8275e6bb9e2b.png)
